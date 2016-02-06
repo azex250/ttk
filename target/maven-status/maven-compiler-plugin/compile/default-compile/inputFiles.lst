@@ -1,0 +1,12 @@
+/home/az/spring_in_action/src/main/java/az/controllers/RestController.java
+/home/az/spring_in_action/src/main/java/az/service/INoteManager.java
+/home/az/spring_in_action/src/main/java/az/controllers/MainController.java
+/home/az/spring_in_action/src/main/java/az/model/Note.java
+/home/az/spring_in_action/src/main/java/az/service/TagManager.java
+/home/az/spring_in_action/src/main/java/az/dao/NoteDAO.java
+/home/az/spring_in_action/src/main/java/az/service/ITagManager.java
+/home/az/spring_in_action/src/main/java/az/model/AjaxError.java
+/home/az/spring_in_action/src/main/java/az/dao/ITagDAO.java
+/home/az/spring_in_action/src/main/java/az/dao/TagDAO.java
+/home/az/spring_in_action/src/main/java/az/dao/INoteDAO.java
+/home/az/spring_in_action/src/main/java/az/service/NoteManager.java
