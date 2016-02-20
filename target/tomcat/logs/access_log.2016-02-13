@@ -1,0 +1,7 @@
+127.0.0.1 - - [13/Feb/2016:23:12:13 +0500] "GET / HTTP/1.1" 200 2039 http-bio-8080-exec-1 7276
+127.0.0.1 - - [13/Feb/2016:23:12:14 +0500] "GET /static/favicon.ico HTTP/1.1" 200 4286 http-bio-8080-exec-2 17
+127.0.0.1 - - [13/Feb/2016:23:13:03 +0500] "GET /dummyList HTTP/1.1" 200 3753 http-bio-8080-exec-3 11422
+127.0.0.1 - - [13/Feb/2016:23:18:50 +0500] "GET /dummyList?tag=personal HTTP/1.1" 200 2128 http-bio-8080-exec-5 730
+127.0.0.1 - - [13/Feb/2016:23:20:07 +0500] "GET /dummyList?title= HTTP/1.1" 200 3753 http-bio-8080-exec-7 956
+127.0.0.1 - - [13/Feb/2016:23:20:12 +0500] "GET /dummyList?tag=work HTTP/1.1" 200 1563 http-bio-8080-exec-8 311
+127.0.0.1 - - [13/Feb/2016:23:20:18 +0500] "GET /dummyList?tag=todo HTTP/1.1" 200 2171 http-bio-8080-exec-9 224
